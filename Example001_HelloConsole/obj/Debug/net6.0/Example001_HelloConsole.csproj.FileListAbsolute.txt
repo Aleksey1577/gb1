@@ -1,0 +1,15 @@
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.deps.json
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.runtimeconfig.json
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.dll
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/bin/Debug/net6.0/ref/Example001_HelloConsole.dll
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.pdb
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfo.cs
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.dll
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/ref/Example001_HelloConsole.dll
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.pdb
+/home/kalibri/Рабочий стол/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.genruntimeconfig.cache
